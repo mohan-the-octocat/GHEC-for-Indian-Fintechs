@@ -1,0 +1,31 @@
+- **Real-world examples of BFSI modernization with GitHub**  
+  - Global and Indian BFSIs are adopting GitHub Enterprise to modernize software development while maintaining regulatory compliance.  
+  - Success stories of BFSIs using GitHub to improve agility, security, and developer collaboration.  
+
+- **Open-source adoption via GitHub**  
+  - Securely using open-source tools while ensuring compliance.  
+  - Managing dependencies with **GitHub Dependabot** to prevent vulnerabilities.  
+  - Enabling banks to contribute to and leverage open-source innovation.  
+
+- **DevSecOps with GitHub Advanced Security (GHAS)**  
+  - Embedding security within the development lifecycle with **CodeQL, secret scanning, and automated dependency updates**.  
+  - Automating vulnerability detection and compliance enforcement.  
+
+- **AI-powered development with GitHub Copilot**  
+  - Accelerating development cycles with AI-assisted coding.  
+  - Reducing tech debt and improving code quality.  
+  - Helping BFSI developers write secure, compliant, and efficient code.  
+
+- **Developer experience & collaboration with GitHub**  
+  - **GitHub Issues & Discussions** for seamless cross-team collaboration.  
+  - **GitHub Actions** for automating workflows, testing, and deployments.  
+  - Creating a **centralized, version-controlled repository** for all development activities.  
+
+- **API-first banking with GitHub Actions & Packages**  
+  - Automating CI/CD pipelines for API-driven banking applications.  
+  - Ensuring secure software releases while meeting compliance requirements.  
+  - Using **GitHub Packages** to manage dependencies securely.  
+
+- **Future-proofing BFSI software development**  
+  - Leveraging **AI, automation, and security tools** to stay ahead of emerging trends.  
+  - Supporting BFSIs in navigating **quantum-ready cryptography and AI-driven fraud detection**.  
